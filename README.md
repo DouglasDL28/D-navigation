@@ -1,5 +1,5 @@
-# css-navigation-library
-![npm version](https://badge.fury.io/js/survey-monkey-streams.svg) Navigation library for the lovers of css based on javascript😊
+# navigation library
+![npm version](https://badge.fury.io/js/survey-monkey-streams.svg) Navigation library for the lovers of css based on javascript
 ***
 1. [ Example ](#example)
 2. [ Usage ](#usage)
